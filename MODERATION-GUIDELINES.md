@@ -7,8 +7,8 @@ On the internet, different discussion forums will have different cultural norms,
 - Comments will be on-topic.
 - Comments will be about ideas, not people.
 - Comments may offer pointed criticism, if it is criticism about specific technical ideas or decisions, not general criticism, or criticism of individuals or groups. Even the smartest people can have ideas that don't work out, and people with good intentions can make decisions that backfire. It does not add a lot of value generally to speculate about peoples motives or capabilities when discussing the merits of their ideas, and doing so will be considered off-topic in technical discussions.
-- Comments should contribute new information. A certain amount of repetition is critical for learning, dissemination of ideas, and understanding in communication, but it can be taken too far when the same information is repeated in the same context. Moderators may remove comments that do not contribute new information or constructively reframe existing information.
-- Meta-discussions about moderation decisions or moderation policy are off-topic in Bitcoin Core software projects. If you wish to discuss moderation, please file an issue in [bitcoin-core/meta](https://github.com/bitcoin-core/meta/issues/new), which is the home for project management issues, and nontechnical discussions relating to development of the codebase.
+- Comments should contribute new information. A certain amount of repetition is critical for learning, dissemination of ideas, and understanding in communication, but it can be taken too far when the same information is repeated in the same context. Moderators may remove comments that do not either contribute new information or constructively reframe existing information.
+- Comments about moderation decisions or moderation policy are off-topic in Bitcoin Core software projects and will be deleted. If you wish to discuss moderation, please file an issue in [bitcoin-core/meta](https://github.com/bitcoin-core/meta/issues/new), which is the home for project management issues, and nontechnical discussions relating to development of the codebase.
 
 ## Role of Moderators
 
@@ -40,7 +40,7 @@ The job of moderators is to enforce the community's desired norms of discussion,
 
 - When moderators hide or delete a comment which does not add any value at all, they should not need to write any explanation as these actions should be self-explanatory. But they could choose to explain what happened if they think it would be helpful.
 
-- When moderators ban someone, there should be an issue posted https://github.com/bitcoin-core/meta/issues to provide a public indication that some discussion was suppressed. This could be in dedicated issues, or in a catch-all issue for temporary bans. To avoid embarrassment or potential backlash, the post does need not include name of the person being banned or reasons for the ban.
+- When moderators ban someone for a reason other than obvious spam, there should be an issue posted https://github.com/bitcoin-core/meta/issues to provide a public indication that some discussion was suppressed. This could be in dedicated issues, or in a catch-all issue for temporary bans. To avoid embarrassment or potential backlash, the post does need not include name of the person being banned or reasons for the ban.
 
 - Moderators should not edit the contents of contributors posts. The only exception should be that if moderators are hiding a comment, they can add a clearly delineated postscript to the comment with the moderator's username, the date, and short explanation of why they are hiding the comment.
 
