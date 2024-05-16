@@ -1,6 +1,6 @@
-# Moderation Guidelines (draft)
+# Moderation Guidelines
 
-Comments on Bitcoin Core issues and pull requests will be **aggressively** moderated, on the understanding that it is easier to rephrase deleted comments to be constructive and respectful than to replace long term contributors who are burnt out from a discussion culture that is unnecessarily contentious and overbearing.
+Comments on Bitcoin Core issues and pull requests will be **actively** moderated, on the understanding that it is easier to rephrase deleted comments to be constructive and respectful than to replace long term contributors who are burnt out from a discussion culture that is unnecessarily contentious and overbearing.
 
 On the internet, different discussion forums will have different cultural norms, but within Bitcoin Core software projects, moderators will seek to uphold the following norms:
 
