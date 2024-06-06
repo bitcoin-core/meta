@@ -40,7 +40,7 @@ The job of moderators is to enforce the community's desired norms of discussion,
 
 - When moderators hide or delete a comment which does not add any value at all, they should not need to write any explanation as these actions should be self-explanatory. But they could choose to explain what happened if they think it would be helpful.
 
-- When moderators ban someone for a reason other than obvious spam, there should be an issue posted https://github.com/bitcoin-core/meta/issues to provide a public indication that some discussion was suppressed. This could be in dedicated issues, or in a catch-all issue for temporary bans. To avoid embarrassment or potential backlash, the post does need not include name of the person being banned or reasons for the ban.
+- When moderators ban someone for a reason other than obvious spam, they should leave a comment inviting the user to open an issue in https://github.com/bitcoin-core/meta/issues if the motivation for the action was unclear. The goal is to keep the software repo focused on technical discussion and move meta conversations to the meta repo.
 
 - Moderators should not edit the contents of contributors posts. The only exception should be that if moderators are hiding a comment, they can add a clearly delineated postscript to the comment with the moderator's username, the date, and short explanation of why they are hiding the comment.
 
