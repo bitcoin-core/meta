@@ -54,7 +54,7 @@ Moderators are not perfect and will make mistakes.
 
 If moderation decisions are causing repeated problems, please request a review of moderation decisions by opening a public issue in https://github.com/bitcoin-core/meta/issues/new or email moderation@bitcoincore.org privately, so patterns of bad decisions can be discussed and corrected. Please include as much detail as you can provide about the specific moderation decisions which were unfair or counterproductive. If you think it is relevant, you can also include background information about things like past disagreements or conflicts of interest. Focus of the review will only be to improve moderation decisions and quality of discussion so please only include background information that is likely to be relevant to making better moderation decisions.
 
-If a review uncovers problems, it could result in new moderation guidelines being written or moderators being asked change their behavior less formally. In more extreme cases, it could result in a specific moderator being asked not to moderate specific posters, leaving it to other moderators with less history who can be more credibly neutral. In the worst case, if moderators' decisions are really outside the best-effort practices described in this document, project maintainers can remove moderators.
+If a review uncovers problems, it could result in new moderation guidelines being written or moderators being asked to change their behavior less formally. In more extreme cases, it could result in a specific moderator being asked not to moderate specific posters, leaving it to other moderators with less history who can be more credibly neutral. In the worst case, if moderators' decisions are really outside the best-effort practices described in this document, project maintainers can remove moderators.
 
 ## Recommended actions
 
@@ -62,4 +62,4 @@ If your post is removed because it is on the edge of technical and substantive d
 
 If your post is removed because it is considered off-topic: Try to find a better place where the topic can be discussed, and attempt to look for traction in those places.
 
-If your post is removed because it is too long or repetitive: Take some time iterating offline and post a concise, refined summary of your thoughts with links to outside discussions and texts for readers interested in more details.
+If your post is removed because it is too long or repetitive: Take some time to iterate offline and then post a concise, refined summary of your thoughts with links to outside discussions and texts for readers interested in more details.
