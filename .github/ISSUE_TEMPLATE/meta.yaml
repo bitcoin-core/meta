@@ -1,0 +1,46 @@
+name: Meta Issue (Moderation / Policy Action)
+description: Use this ONLY for specific meta actions such as moderation policy changes or ban/unban requests
+title: "[META] <short description>"
+labels:
+  - meta
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Purpose
+
+        This repository is for **specific, actionable meta issues only**, such as:
+        - Proposing or modifying moderation policies
+        - Requesting a user to be banned or unbanned
+
+        It is **not** for general discussion, brainstorming, or open-ended questions.
+
+        All other topics should be posted in **GitHub Discussions**:
+        https://github.com/bitcoin-core/meta/discussions
+
+  - type: checkboxes
+    id: type
+    attributes:
+      label: Type of Request
+      description: Select one
+      options:
+        - label: Moderation policy change
+        - label: Ban request
+        - label: Unban request
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: |
+        Provide all relevant context, justification, and links.
+
+        - For policy changes: explain the current issue and the proposed change
+        - For ban/unban requests: include history, evidence, and rationale
+      placeholder: Enter full details here
+    validations:
+      required: true
